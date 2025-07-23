@@ -1,19 +1,18 @@
 # Hi, I'm Janhavi 👋  
 **@janhavikendre**
 
-I'm a final year Computer Science and Engineering student passionate about Full-Stack Web Development and AI-powered applications. I build projects using the **MERN stack** and have recently started exploring **Next.js**, **Web3**, and building chat apps, resume generators, and productivity tools. I'm also an active contributor to the #180DaysOfCode challenge, where I document my daily learning and development progress.
+I'm a final year Computer Science and Engineering student passionate about Full-Stack Web Development and AI-powered applications. I build projects using the **MERN stack** and have recently started exploring **Next.js**, **Web3**, and building chat apps, resume generators, and productivity tools.
 
-I'm curious, consistent, and always open to collaborating on meaningful ideas whether it's a custom job portal, a crypto dashboard, or a Solana-based DApp.
 
 ---
 
 ### 🛠️ Technologies & Tools  
-**Languages:** JavaScript, TypeScript, Python, Java  
-**Frameworks & Libraries:** React.js, Next.js, Express.js, TailwindCSS, ShadCN/UI  
-**Backend & DevOps:** Node.js, MongoDB, Mongoose, Prisma, REST APIs, JWT, Git, GitHub, Postman  
-**Web3 & Blockchain:** Solana (Token creation, transfer, NFT basics), basic Anchor knowledge  
-**Tools:** VSCode, Vercel, Netlify, Render, Railway, Canva  
-**Others:** React Hook Form, Zustand, Socket.io, Pusher, Dioxus (experimental), Framer Motion  
+- **Languages:** JavaScript, TypeScript, Python, Java , Rust
+- **Frameworks & Libraries:** React.js, Next.js, Express.js, TailwindCSS, ShadCN/UI  
+- **Backend & DevOps:** Node.js, MongoDB, Mongoose, Prisma, REST APIs, JWT, Git, GitHub, Postman  
+- **Web3 & Blockchain:** Solana (Token creation, transfer, NFT basics), basic Anchor knowledge  
+- **Tools:** VSCode, Vercel, Canva  
+- **Others:** React Hook Form, Zustand, Socket.io, Pusher, Dioxus (experimental), Framer Motion  
 
 ---
 
