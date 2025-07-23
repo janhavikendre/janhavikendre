@@ -29,10 +29,10 @@ I'm curious, consistent, and always open to collaborating on meaningful ideas—
 ### 📫 Contact Me  
 📱 Phone: [+91 8329747467]  
 📧 Email: [janhavikendre717@gmail.com]  
-🐦 X (Twitter): [@janhavikendre]([https://twitter.com/janhavikendre](https://x.com/CodeCzar1))  
-💼 LinkedIn: [linkedin.com/in/janhavikendre](https://www.linkedin.com/in/janhavi-kendre-b06675249/)  
-🌐 Portfolio: [[your-portfolio-link.com](https://www.janhavikendre.tech/)]  
-📄 Resume: [Download Resume](https://drive.google.com/file/d/14oLon1Kgdlyibi75DPpB3Pc-2Cgfv0T4/view)
+🐦 X (Twitter): [X](https://x.com/CodeCzar1)  
+💼 LinkedIn: [linkedin](https://www.linkedin.com/in/janhavi-kendre-b06675249/)  
+🌐 Portfolio: [portfolio](https://www.janhavikendre.tech/)
+📄 Resume: [Resume](https://drive.google.com/file/d/14oLon1Kgdlyibi75DPpB3Pc-2Cgfv0T4/view)
 
 ---
 
