@@ -1,6 +1,7 @@
 # Hi, I'm Janhavi 👋  
 **@janhavikendre**
 
+
 I'm a final year Computer Science and Engineering student passionate about Full-Stack Web Development and AI-powered applications. I build projects using the **MERN stack** and have recently started exploring **Next.js**, **Web3**, and building chat apps, resume generators, and productivity tools.
 
 
@@ -35,5 +36,7 @@ I'm a final year Computer Science and Engineering student passionate about Full-
 
 ---
 
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janhavikendre&layout=compact&theme=radical)  
 
 
